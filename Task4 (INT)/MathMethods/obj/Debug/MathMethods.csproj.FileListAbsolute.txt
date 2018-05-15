@@ -1,0 +1,15 @@
+D:\Visual studio\Projects\MathMethods\obj\Debug\MathMethods.csprojResolveAssemblyReference.cache
+D:\Visual studio\Projects\MathMethods\bin\Debug\MathMethods.dll
+D:\Visual studio\Projects\MathMethods\bin\Debug\MathMethods.pdb
+D:\Visual studio\Projects\MathMethods\obj\Debug\MathMethods.dll
+D:\Visual studio\Projects\MathMethods\obj\Debug\MathMethods.pdb
+C:\Users\олег\Desktop\Разное\Всякая всячина\Учеба\СПбГУ\Вычислительная математика\Computational-Mathematics-master\MathMethods\bin\Debug\MathMethods.dll
+C:\Users\олег\Desktop\Разное\Всякая всячина\Учеба\СПбГУ\Вычислительная математика\Computational-Mathematics-master\MathMethods\bin\Debug\MathMethods.pdb
+C:\Users\олег\Desktop\Разное\Всякая всячина\Учеба\СПбГУ\Вычислительная математика\Computational-Mathematics-master\MathMethods\obj\Debug\MathMethods.csprojResolveAssemblyReference.cache
+C:\Users\олег\Desktop\Разное\Всякая всячина\Учеба\СПбГУ\Вычислительная математика\Computational-Mathematics-master\MathMethods\obj\Debug\MathMethods.dll
+C:\Users\олег\Desktop\Разное\Всякая всячина\Учеба\СПбГУ\Вычислительная математика\Computational-Mathematics-master\MathMethods\obj\Debug\MathMethods.pdb
+C:\Users\олег\Desktop\Разное\Всякая всячина\Учеба\СПбГУ\Вычислительная математика\Tasks\MathMethods\bin\Debug\MathMethods.dll
+C:\Users\олег\Desktop\Разное\Всякая всячина\Учеба\СПбГУ\Вычислительная математика\Tasks\MathMethods\bin\Debug\MathMethods.pdb
+C:\Users\олег\Desktop\Разное\Всякая всячина\Учеба\СПбГУ\Вычислительная математика\Tasks\MathMethods\obj\Debug\MathMethods.csprojResolveAssemblyReference.cache
+C:\Users\олег\Desktop\Разное\Всякая всячина\Учеба\СПбГУ\Вычислительная математика\Tasks\MathMethods\obj\Debug\MathMethods.dll
+C:\Users\олег\Desktop\Разное\Всякая всячина\Учеба\СПбГУ\Вычислительная математика\Tasks\MathMethods\obj\Debug\MathMethods.pdb
